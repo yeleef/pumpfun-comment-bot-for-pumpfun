@@ -49,7 +49,7 @@ Make sure you have the following installed:
 
    Check the file named `words.txt` in the project directory. This file should contain the comments you want to post, with each comment on a new line. For example: Great job! 🎉 Keep it up! 👍 Amazing work! 🌟
 
-2. 2. **Run the Bot**:
+2. **Run the Bot**:
 
   Execute the bot by running the following command in the terminal:
   
