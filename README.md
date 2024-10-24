@@ -34,14 +34,14 @@ Make sure you have the following installed:
 
    Open your terminal or command prompt and navigate to the project directory:
    ```bash
-   cd pumpfun-comment-bot```
+   cd pumpfun-comment-bot
 
 3. **Install Dependencies:**
 
     Run the following command to install the required packages:
 
-    bash```
-    npm install```
+    ```bash
+    npm install
 
 ## Usage Instructions
 
@@ -53,7 +53,7 @@ Make sure you have the following installed:
 
   Execute the bot by running the following command in the terminal:
   
-    ```bash 
+   ```bash 
     node index.js```  
 
   (be sure to be in the correct folder
