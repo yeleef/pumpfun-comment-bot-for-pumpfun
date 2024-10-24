@@ -1,4 +1,4 @@
-# 🎉 Comment Bot for PumpFun 🚀
+# 🎉  PumpFun Comment Bot  🚀
 
 ## Overview
 
