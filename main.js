@@ -1,4 +1,4 @@
-const { comment } = require("./src/comments.js");
+const { comment } = require("./source/comments.js");
 const readline = require('readline');
 
 // Create an interface for reading user input
