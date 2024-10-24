@@ -54,6 +54,6 @@ Make sure you have the following installed:
   Execute the bot by running the following command in the terminal:
   
    ```bash 
-    node index.js  
+    node main.js  
 
   (be sure to be in the correct folder
