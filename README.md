@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
 1. **Prepare the Comments File**:
 
-   Check the file named `words.txt` in the project directory. This file should contain the comments you want to post, with each comment on a new line. For example: Great job! 🎉 Keep it up! 👍 Amazing work! 🌟
+   Check the file named `words.txt` in the project directory. This file should contain the comments you want to post, with each comment on a new line. For example: Great job! 🎉  Amazing work! 🌟
 
 2. **Run the Bot**:
 
